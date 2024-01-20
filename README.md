@@ -2,7 +2,6 @@
 <h3 align="center">A front end developer from India</h3>
 <image align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertram298&label=Profile%20views&color=0e75b6&style=flat" alt="robertram298" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robertram298&label=Profile%20views&color=0e75b6&style=flat" alt="robertram298" /> </p>
 
 - 💬 Ask me about **Angular, JavaScript, TypeScript, Node Js, MySQL**
 
