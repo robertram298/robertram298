@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I am funny**
 ### About Me
-Angular Developer - 3.4 years of experience working on core functionalities for web applications using Angular, HTML, CSS, Bootstrap,Angular Material, Kendo UI, Typescript, JavaScript , MySQL and Asp .Net. Currently working in chennai location
+Angular Developer - 4.4 years of experience working on core functionalities for web applications using Angular, HTML, CSS, Bootstrap,Angular Material, Kendo UI, Typescript, JavaScript , MySQL and Asp .Net. Currently working in chennai location
 ##
 
 <h3 align="left">Connect with me:</h3>
